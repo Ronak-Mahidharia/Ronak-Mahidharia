@@ -14,7 +14,7 @@
 </p>
 
 ### 👋 About me
-- 🏢 **Now:** Software Engineer at [TermScout](https://www.termscout.com), an AI contract-intelligence platform, working across Python, React, and AWS serverless.
+- 🏢 **Now:** Software Engineer I at [TermScout](https://www.termscout.com), an AI contract-intelligence platform, working across Python, React, and AWS serverless.
 - 🤖 **Before:** AI Engineer at EDISCOVERIST, building an AI-powered Microsoft Word add-in for legal document review.
 - 🎓 **Education:** M.S. in Information Systems, Northeastern University.
 - 💡 **What I care about:** AI whose accuracy is measured rather than assumed, backends that fail loudly and recover cleanly, and interfaces people can use without a manual.
