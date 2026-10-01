@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Ronak Mahidharia</title>
+  <desc id="desc">Software Engineer and AI Engineer. RAG, LLM evaluation, serverless AWS, React.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+  <g stroke="#7cb4ff" stroke-width="2" opacity="0.35"><line x1="930" y1="70" x2="1010" y2="45"/><line x1="1010" y1="45" x2="1090" y2="85"/><line x1="1090" y1="85" x2="1150" y2="50"/><line x1="930" y1="70" x2="960" y2="150"/><line x1="960" y1="150" x2="1050" y2="140"/><line x1="1050" y1="140" x2="1090" y2="85"/><line x1="1050" y1="140" x2="1130" y2="170"/><line x1="1130" y1="170" x2="1150" y2="50"/><line x1="960" y1="150" x2="1000" y2="215"/><line x1="1000" y1="215" x2="1100" y2="225"/><line x1="1100" y1="225" x2="1130" y2="170"/><line x1="1050" y1="140" x2="1100" y2="225"/><line x1="1010" y1="45" x2="1050" y2="140"/></g>
+  <g fill="#7cb4ff" opacity="0.9"><circle cx="930" cy="70" r="5"/><circle cx="1010" cy="45" r="5"/><circle cx="1090" cy="85" r="7"/><circle cx="1150" cy="50" r="5"/><circle cx="960" cy="150" r="5"/><circle cx="1050" cy="140" r="7"/><circle cx="1130" cy="170" r="5"/><circle cx="1000" cy="215" r="5"/><circle cx="1100" cy="225" r="5"/></g>
+  <text x="60" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Ronak Mahidharia</text>
+  <text x="62" y="162" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#93c5fd">Software Engineer · AI Engineer</text>
+  <text x="62" y="205" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#cbd5e1">RAG · LLM evaluation · Serverless AWS · React</text>
+</svg>
