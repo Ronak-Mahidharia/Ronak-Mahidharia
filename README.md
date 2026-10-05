@@ -19,8 +19,14 @@
 - 🎓 **Education:** M.S. in Information Systems, Northeastern University.
 - 💡 **What I care about:** AI whose accuracy is measured rather than assumed, backends that fail loudly and recover cleanly, and interfaces people can use without a manual.
 
-### 🔨 Currently building
-New open-source AI projects, each with a published evaluation: a retrieval-augmented generation (RAG) assistant and a tool-using AI agent. I'll pin them here as they ship.
+### 🚗 Featured project: [Car Safety Checker](https://github.com/Ronak-Mahidharia/car-safety-checker)
+Describe a car problem in plain English and see the official NHTSA recalls and owner complaints that match it, each linked to NHTSA's record. **[Try it live](https://ronak-mahidharia.github.io/car-safety-checker/)**
+- Found 84.6% of the right recalls on 1,000 held-out complaints, against 78.1% for a keyword baseline, using RAG and local LLMs.
+- Runs entirely in the browser: the model was shrunk from 78.6 MB to about 1 MB with the same accuracy, so the site needs no server.
+- An MCP server lets AI assistants use the same lookups. A tool-use evaluation of two local models led to fixes that took false safety assurances, in the answers that read a planted injection, from 3 of 4 to none.
+
+### 🔨 Up next
+A retrieval-augmented assistant over NIST's public security-control catalog, with a published evaluation.
 
 ### 🛠️ Tech I work with
 <picture>
