@@ -25,8 +25,11 @@ Describe a car problem in plain English and see the official NHTSA recalls and o
 - Runs entirely in the browser: the model was shrunk from 78.6 MB to about 1 MB with the same accuracy, so the site needs no server.
 - An MCP server lets AI assistants use the same lookups. A tool-use evaluation of two local models led to fixes that took false safety assurances, in the answers that read a planted injection, from 3 of 4 to none.
 
-### 🔨 Up next
-A retrieval-augmented assistant over NIST's public security-control catalog, with a published evaluation.
+### 🔐 Featured project: [Control Finder](https://github.com/Ronak-Mahidharia/control-finder)
+Ask a security question in plain English and get the NIST SP 800-53 controls that answer it, each one cited, or a plain "not covered".
+- Measured on NIST's own mappings: hybrid search over pgvector puts a right control first for 32.6% of held-out CSF 2.0 questions, against 17.4% for keyword search.
+- Cited answers come from a local model whose citations can only name the controls it was shown. It said "not covered" for 19 of 20 out-of-scope questions.
+- A FastAPI service and an MCP server for AI assistants, both checked against the published rankings, plus a React website.
 
 ### 🛠️ Tech I work with
 <picture>
