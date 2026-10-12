@@ -31,6 +31,12 @@ Ask a security question in plain English and get the NIST SP 800-53 controls tha
 - Cited answers come from a local model whose citations can only name the controls it was shown. It said "not covered" for 19 of 20 out-of-scope questions.
 - A FastAPI service and an MCP server for AI assistants, both checked against the published rankings, plus a React website.
 
+### 📝 Featured project: [docs-proof](https://github.com/Ronak-Mahidharia/docs-proof)
+Change some code, and it finds the lines in your docs that the change made wrong, proves each one, and suggests a fix that changes nothing until you approve it.
+- Measured on 246 changes planted in 30 real Python projects: on the held-out half, 98.0% of the doc lines it flagged for a renamed option, function, environment variable, or file were right, and its rule-based fixes corrected 358 of the 363 lines a change made wrong.
+- Running the projects' documented commands in a locked-down Docker sandbox found 7 real out-of-date doc lines in 5 popular projects.
+- A command, a GitHub Action that needs no write permission, and an MCP server for AI assistants. It uses no AI unless you ask, and sends nothing anywhere.
+
 ### 🛠️ Tech I work with
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
