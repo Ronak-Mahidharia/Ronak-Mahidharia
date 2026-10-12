@@ -58,5 +58,5 @@ Change some code, and it finds the lines in your docs that the change made wrong
 </details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronak-Mahidharia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://hits.sh/github.com/Ronak-Mahidharia.svg?label=Profile%20views&color=0e75b6" alt="Profile views">
 </p>
